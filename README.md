@@ -1,2 +1,3 @@
-# NodeJS
-ExpressApp
+# Store App
+
+A Store App using ExpressJS.
